@@ -1,0 +1,14 @@
+siteTitle = 'Ăn Ngon Mỗi Giây'
+siteDescr = 'Địa điểm ăn uống Bình Dương'
+siteDescription = "Hãy ăn uống ngay."
+siteUrl = "http://anngonmoigiay.com"
+siteBandcampUrl = 'http://anngonmoigiay.com'
+siteSoundcloudUrl = 'https://soundcloud.com/sentimony'
+siteFacebookUrl = ''
+siteDiscogsUrl = 'https://www.discogs.com/label/82598-Sentimony-Records'
+siteTwitterUrl = 'https://twitter.com/nihon_ne'
+siteGoogleplusUrl = ''
+siteGithubUrl = 'https://github.com/nihonne'
+siteYoutubeUrl = 'https://www.youtube.com/channel/UC2xhVmkOYPKibhJm3f0f3hw'
+
+linkPrefix = '/'
